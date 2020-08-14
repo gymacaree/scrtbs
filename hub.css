@@ -1,0 +1,10 @@
+.c-masthead__main, .c-global-header {
+  background-image: url('') !important;
+  background-color: #0a0a0a;
+  background-size: cover;
+  background-position: center center;
+}
+
+.c-global-header .l-wrapper {
+  max-width: none;
+}
